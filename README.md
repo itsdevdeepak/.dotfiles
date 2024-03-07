@@ -14,6 +14,7 @@
 - **IDE**: VSCode, Nvim
 - **Launcher**: dmenu
 - **Notification Daemon**: dunst
+- **Cursor**: Capitaine cursors
 
 
 ## Installation Guide
